@@ -18,4 +18,4 @@ We have models with three different agents:
 
 #### Implementation of the agent model based on on the article: M. Paolucci, R. Conte "Altruism among Simple and Smart Vampires".
 
-![Poster](images/poster.png)
+![Poster](./images/poster.png)
