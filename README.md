@@ -16,6 +16,13 @@ We have models with three different agents:
 2. Smart vampire
 3. Smart dynamic vampire
 
+
+## What we use?
+
+In our project we use Mesa, this is an Apache2 licensed agent-based modeling framework in Python.
+
+It allows users to quickly create agent-based models using built-in core components (such as spatial grids and agent schedulers) or customized implementations; visualize them using a browser-based interface; and analyze their results using Python's data analysis tools. Its goal is to be the Python 3-based alternative to NetLogo, Repast, or MASON.
+
 #### Implementation of the agent model based on on the article: M. Paolucci, R. Conte "Altruism among Simple and Smart Vampires".
 
 ![Poster](./images/Poster.png)
